@@ -18,6 +18,9 @@ def main():
     # output
     print("{0} + {1} = {2}".format(first, second, total))
 
+    print("")
+    print("Done.")
+
 
 if __name__ == "__main__":
     main()
